@@ -1,6 +1,3 @@
-# asu
-bookmarks for asu
-
 ## MY ASU
 
 https://my.asu.edu/
@@ -9,11 +6,5 @@ https://my.asu.edu/
 Arizona State University (ASU)
 https://email.asu.edu
 
-# LINKS
-
-## REDDIT
-https://www.reddit.com/r/ASU/
-
 # WIKI
-
 [wiki](/wanjochan/asu/wiki)
