@@ -13,3 +13,7 @@ https://email.asu.edu
 
 ## REDDIT
 https://www.reddit.com/r/ASU/
+
+# WIKI
+
+[wiki](/wanjochan/asu/wiki)
