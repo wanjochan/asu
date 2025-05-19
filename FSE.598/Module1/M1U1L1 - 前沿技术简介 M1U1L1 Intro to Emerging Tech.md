@@ -147,7 +147,9 @@ graph TD
     A --> F[模块5<br>图论]
     A --> G[模块6<br>线性代数]
     A --> H[模块7<br>网络/安全]
-    
+```
+```mermaid
+graph TD
     I[相关课程] --> J[CSE551<br>算法]
     I --> K[CSE565<br>测试]
     I --> L[CSE545<br>安全]
