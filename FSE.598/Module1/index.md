@@ -18,6 +18,8 @@
 前沿计算技术领域。
 ```
 
+schedule
+```
  模块 1：计算思维 Module 1: Computational Thinking
 Page
 模块 1: 概述 Module 1: Overview
@@ -47,3 +49,4 @@ Jun 2
 100 pts
 Assignment
 项目 1 作业 1
+```
