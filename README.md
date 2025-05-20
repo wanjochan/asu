@@ -1,4 +1,4 @@
-# MECT
+# MECT 学习笔记 Study Notes
 
 [https://www.asuonline.cn/mect/](https://www.asuonline.cn/mect/)
 MECT 计算机科学与技术硕士
@@ -23,3 +23,7 @@ https://email.asu.edu
 # WIKI
 
 [wiki](/wanjochan/asu/wiki)
+
+# 声明
+
+纯个人学习心得，并没有上传任何讲义、电子书、视频、题目等，并没有违反任何规定。如有觉得不妥，请留言告之。
