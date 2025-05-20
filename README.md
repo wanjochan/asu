@@ -10,20 +10,20 @@ Master of Engineering - Computing and Technology
 
 - 费曼学习法：以教促学
 - 六因素学习法：Attention、Alertness、Sleep、Repetition、Breaks、Mistakes
-- AI辅助加速法：快速制作记忆和备考精华、粗看讲义修正精华、细看记忆精华+作题、精华复读搭配思维导图
+- AI辅助提效：AI制作记忆与备考精华、粗看讲义并修正精华、精华复读（可搭配思维导图）
 
 ## MY ASU
 
 https://my.asu.edu/
 
 ## ASU Gmail - Arizona State University
-Arizona State University (ASU)
+
 https://email.asu.edu
 
 # WIKI
 
-[wiki](/wanjochan/asu/wiki)
+[wiki](./wiki)
 
 # 声明
 
-纯个人学习心得，并没有上传任何讲义、电子书、视频、题目等，并没有违反任何规定。如有觉得不妥，请留言告之。
+纯个人学习心得，并没有上传任何讲义、电子书、视频、题目等，不应有违反任何规定。如有觉得不妥，请留言告之。
