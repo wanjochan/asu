@@ -10,7 +10,7 @@ Master of Engineering - Computing and Technology
 
 - 费曼学习法：以教促学
 - 六因素学习法：Attention、Alertness、Sleep、Repetition、Breaks、Mistakes
-- AI辅助提效：AI制作记忆与备考精华、粗看讲义并修正精华、精华复读（可搭配思维导图）
+- AI辅助学习：利用AI工具制作学习卡片和复习要点、快速浏览讲义并优化笔记、反复复习关键知识点（结合思维导图加深理解）
 
 ## MY ASU
 
